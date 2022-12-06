@@ -1,0 +1,15 @@
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\obj\Debug\net6.0\Allergen.csproj.AssemblyReference.cache
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\obj\Debug\net6.0\Allergen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\obj\Debug\net6.0\Allergen.AssemblyInfoInputs.cache
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\obj\Debug\net6.0\Allergen.AssemblyInfo.cs
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\obj\Debug\net6.0\Allergen.csproj.CoreCompileInputs.cache
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\bin\Debug\net6.0\Allergen.exe
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\bin\Debug\net6.0\Allergen.deps.json
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\bin\Debug\net6.0\Allergen.runtimeconfig.json
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\bin\Debug\net6.0\Allergen.dll
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\bin\Debug\net6.0\Allergen.pdb
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\obj\Debug\net6.0\Allergen.dll
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\obj\Debug\net6.0\refint\Allergen.dll
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\obj\Debug\net6.0\Allergen.pdb
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\obj\Debug\net6.0\Allergen.genruntimeconfig.cache
+C:\Users\alexj\Desktop\Allergen.Solution\Allergen\obj\Debug\net6.0\ref\Allergen.dll
